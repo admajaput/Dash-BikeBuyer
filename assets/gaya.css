@@ -1,0 +1,18 @@
+.h1firstTab{
+    text-align : center;
+    color : #008080;
+}
+
+.table_dataset{
+    border : 1px solid black;
+    border-collapse: collapse;
+    font-size: 1.2rem;
+    margin: auto;
+    padding: 5px 10px;
+    text-align: center
+}
+
+.trinfo{
+    text-align: center;
+    color : #008080;
+}
